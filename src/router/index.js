@@ -11,11 +11,11 @@ const routes = [
     name: 'map',
     component: () => import('../views/MapView.vue')
   },
-  {
-    path: '/orphanage',
-    name: 'orphanage',
-    component: () => import('../views/OrphanageView.vue')
-  }
+  // {
+  //   path: '/orphanage',
+  //   name: 'orphanage',
+  //   component: () => import('../views/OrphanageView.vue')
+  // }
 ]
 
 const router = createRouter({
