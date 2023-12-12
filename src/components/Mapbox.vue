@@ -13,7 +13,7 @@ export default {
       map: null,
       directions: null,
       marker: null,
-      token: 'pk.eyJ1IjoiZWxvaWxzb25kb3NhbmpvcyIsImEiOiJja2g5b29xZDgwdXp1MnBrMW1ubjFxY25uIn0.MV6dnRrRJ7rbSxNPfWLFvQ'
+      token: 'pk.eyJ1IjoiZWxvaWxzb25kb3NhbmpvcyIsImEiOiJjbHA4ajl5NzMwZXlvMmlqemNhZW84aTR0In0.xENAgw6IFeodsjlMFK8csw'
     };
   },
   async mounted() {
